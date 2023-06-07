@@ -1,0 +1,21 @@
+body {
+	background-color: rgb(0, 255, 13);
+}
+
+h1 h2 h3{
+	font-size: 100px;
+}
+
+img {
+	width: 100%;
+}
+
+body {
+	background-color: rgb(0, 255, 0);
+  }
+  
+  h1 h2 h3{
+	font-size: 100px;
+	text-align: center;
+  }
+  
